@@ -1,14 +1,14 @@
 👋 Hi there! I'm Gokul Jayavel, a highly motivated and skilled full-stack developer with experience in designing and developing web applications 🌐, Devops. I'm passionate about solving complex problems and delivering innovative solutions to clients 💡.
 
-🎓 I'm currently pursuing a Master of Science in Information Systems at Northeastern University in Boston, MA. I earned my Bachelor of Technology in Electrical and Electronics Engineering from Anna University in India in May 2020.
+🎓 I'm currently pursuing a Master of Science in Software Engineering Systems at Northeastern University in Boston, MA. I earned my Bachelor of Technology in Electrical and Electronics Engineering from Anna University in India in May 2020.
 
-💻 I have strong skills in JavaScript, Angular, Reactjs, Python, Java, SQL, and database management. I'm proficient in a range of tools and technologies, including Git, Bash, Linux, NumPy, Pandas, Sci-Kit Learn, Matplotlib, and more.
+💻 I have strong skills in C#,Soring boot, .Net ,JavaScript, Angular, Reactjs, Python, Java, SQL, and AWS. I'm proficient in a range of tools and technologies, including Git, Bash, Linux, NumPy, Pandas, Sci-Kit Learn, Matplotlib, and more.
 
 
 At Philips LLC, I've automated key processes, transitioned applications to microservices, and developed critical configuration tools. Previously at Infosys, I enhanced user experiences and streamlined operations with innovative software practices.My Projects demonstrate my capability to deploy robust, cloud-native infrastructures across multiple platforms. Passionate about technology’s power to solve real-world problems, I am keen to contribute my expertise to dynamic teams.
 
 
-In my role at LeadHawk LLC, I engineered a React frontend with Material-UI and Redux, implemented MongoDB with Spring Data, and designed webhooks for seamless Stripe API integration. I also built a robust Spring Boot backend for up to 1,000 users and set up a CI/CD Pipeline with GitHub Actions for Docker images deployed on AWS Fargate. Exciting challenges, but always ready for more! 🚀😊
+In my role at LeadHawk LLC, I engineered a React frontend with Material-UI and Redux, implemented MongoDB with Spring Data, and designed webhooks for seamless Stripe API integration. I also built a robust Spring Boot backend for up to 1,000 users and set up a CI/CD Pipeline with GitHub Actions for Docker images deployed on AWS EKS. Exciting challenges, but always ready for more! 🚀😊
 
 📫 If you're interested in connecting, feel free to reach out to me at (857) 313 1144 or jayavel.g@northeastern.edu. You can also check out my GitHub profile to see more of my work!
 
